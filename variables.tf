@@ -17,7 +17,7 @@ variable "filename" {
 }
 
 variable "account" {
-  type    = number
+  type    = string
   default = "029730857940"
 }
 

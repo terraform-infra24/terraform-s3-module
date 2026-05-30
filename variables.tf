@@ -18,7 +18,7 @@ variable "filename" {
 
 variable "account" {
   type    = number
-  default = 029730857940
+  default = "029730857940"
 }
 
 variable "block_public_access" {

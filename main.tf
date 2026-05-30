@@ -19,7 +19,6 @@ resource "aws_s3_bucket_versioning" "digi-s3-version" {
   }
 }
 
-
 data "aws_iam_policy_document" "digi-s3-policy-statement"{
   statement {
     principals {

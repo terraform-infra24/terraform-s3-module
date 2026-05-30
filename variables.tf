@@ -16,7 +16,7 @@ variable "filename" {
   default     = "not-defined"
 }
 
-variable "account" {
+variable "account_id" {
   type    = string
   default = "029730857940"
 }
